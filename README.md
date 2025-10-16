@@ -161,15 +161,6 @@ Updates total price dynamically
 
 Includes “Checkout” simulation button
 
-✨ Additional Features
-Responsive layout (2 or 3 columns based on screen width)
-
-Modern Material 3 look and feel
-
-Centralized theme and asset management
-
-Error handling and retry on network failures
-
 🧩 Technologies Used
 Category	Package	Purpose
 State Management	flutter_riverpod	Reactive global state handling
